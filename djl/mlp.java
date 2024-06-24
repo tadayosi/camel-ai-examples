@@ -5,7 +5,7 @@ import org.apache.camel.builder.RouteBuilder;
 import java.io.File;
 import java.util.*;
 
-public class mnist extends RouteBuilder {
+public class mlp extends RouteBuilder {
 
     @Override
     public void configure() throws Exception {
